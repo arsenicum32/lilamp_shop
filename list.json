@@ -1,0 +1,27 @@
+[
+  {
+    "url": "/list/podarki",
+    "name": "Подарки",
+    "desc": "В этой коллекции мы собрали поступные лампы, которые можно подарить на новоселье",
+    "find": { "price_gte": 0, "price_lte": 5000},
+    "back": "https://images.unsplash.com/photo-1512418490979-92798cec1380?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "img": "https://images.unsplash.com/photo-1532642121680-8265faf1f59f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "url": "/list/novinki",
+    "name": "Новинки",
+    "find": {"_limit":20},
+    "img": "https://images.unsplash.com/photo-1508754039285-f78290179120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "url": "/list/umnue-lampi",
+    "name": "Умные лампы",
+    "img": "https://images.unsplash.com/photo-1523372102243-c9426fc31b88?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "url": "/list/nastolnue-lampi",
+    "name": "Настольные лампы",
+    "back": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80",
+    "img": "https://images.unsplash.com/photo-1550431703-109e2c9f3e3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+  }
+]

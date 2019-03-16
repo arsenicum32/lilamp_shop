@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M216.924107,240.690523 C216.924107,315.155558 196.921389,388.644062 189.162758,462.490595" id="Path-6" stroke="#979797"></path>
+        <circle id="Oval" fill="#FFF4B9" cx="226" cy="168" r="10"></circle>
+        <circle id="Oval" fill="#FFF4B9" cx="626" cy="284" r="10"></circle>
+        <ellipse id="Oval-2" stroke="#979797" transform="translate(611.662141, 286.461893) rotate(-9.000000) translate(-611.662141, -286.461893) " cx="611.662141" cy="286.461893" rx="81" ry="17"></ellipse>
+        <path d="M565.083485,334 C538.854717,334 533.376297,356.316301 513.308159,367.489458 C486.964891,382.156364 447.708078,379.788493 418,382.727681" id="Path-9" stroke="#979797"></path>
+        <path d="M647.142959,291.199186 C643.095306,289.132791 639.047653,287.066395 635,285" id="Path-10" stroke="#979797"></path>
+        <path d="M636.471168,296.885683 C632.904644,294.734553 618.086687,292.915963 617.362783,290.158354 C615.741345,283.981719 619.629761,265.587109 627.531699,278.487261" id="Path-11" stroke="#979797"></path>
+        <path d="M691.317303,285 C685.376956,332.607638 653.44783,340.125103 611.831788,337.130307 C579.430563,334.798634 562.916902,331.355646 538,315.363891" id="Path-7" stroke="#979797"></path>
+        <path d="M648.784789,341 C636.709577,342.846363 613.239418,340.526192 602.741113,348.194866 C585.864079,360.522996 587.492858,390.086498 568.069827,399.212609 C546.539096,409.329045 523.981289,410.61886 501,413.602341" id="Path-8" stroke="#979797"></path>
+        <text id="приложите-сюда-эскиз" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" letter-spacing="1" fill="#828282">
+            <tspan x="412" y="459">приложите сюда эскиз </tspan>
+            <tspan x="412" y="480">вашей лампочки</tspan>
+        </text>
+    </g>
+</svg>

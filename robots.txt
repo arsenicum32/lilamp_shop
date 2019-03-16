@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /checkout/
+Disallow: /pricelist
+
+Sitemap: https://lilamp.com/sitemap.xml
